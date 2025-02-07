@@ -1,9 +1,13 @@
 ![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/user-attachments/assets/e8e52f3c-4ed9-4ddc-beea-ba30bb970ef4)
 
 ## Hi there 👋 I'm Minh!
-I enjoy spending hours on the computer, finding new things, and getting to know the world and myself
+*Enjoying spending hours on the computer :computer: finding new things :high_brightness: and getting to know the world and myself :earth_asia:*
 
-Currently learning Data Analyst...
+<br/>
+:clipboard: I'm currently learning Data Analyst!
+
+📫 How to reach me: lamnhutminh169@gmail.com
+
 
 <!--
 **miinhlaam/miinhlaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
