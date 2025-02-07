@@ -1,10 +1,13 @@
 ![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/user-attachments/assets/e8e52f3c-4ed9-4ddc-beea-ba30bb970ef4)
 
 ## Hi there 👋 I'm Minh!
-*Enjoying spending hours on the computer :computer: finding new things :high_brightness: and getting to know the world and myself :earth_asia:*
+*Enjoying spending hours on the computer :computer: exploring new things :high_brightness: and getting to know the world and myself :earth_asia:*
 
 <br/>
 :clipboard: I'm currently learning Data Analyst!
+
+:bookmark: Hackerrank SQL Certificate: https://www.hackerrank.com/certificates/dbf238834879
+
 
 📫 How to reach me: lamnhutminh169@gmail.com
 
