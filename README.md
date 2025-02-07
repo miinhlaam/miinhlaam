@@ -1,7 +1,7 @@
 ![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/user-attachments/assets/e8e52f3c-4ed9-4ddc-beea-ba30bb970ef4)
 
-## Hi there 👋 I'm Minh!
-*Enjoying spending hours on the computer :computer: exploring new things :high_brightness: and getting to know the world and myself :earth_asia:*
+## <p align="center"> Hi there 👋 I'm Minh! </p>
+*<p align="center">Enjoying spending hours on the computer :computer: exploring new things :high_brightness: and getting to know the world and myself :earth_asia:</p>*
 
 <br/>
 :clipboard: I'm currently learning Data Analyst!
