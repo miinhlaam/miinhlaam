@@ -1,4 +1,7 @@
-## Hi there 👋
+![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/user-attachments/assets/e8e52f3c-4ed9-4ddc-beea-ba30bb970ef4)
+
+## Hi there 👋 I'm Minh!
+I’m currently learning Data Analyst...
 
 <!--
 **miinhlaam/miinhlaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
