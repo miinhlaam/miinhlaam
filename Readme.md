@@ -6,7 +6,7 @@
 <br/>
 :clipboard: I'm currently learning Data Analyst!
 
-:bookmark: Hackerrank SQL Certificate: https://www.hackerrank.com/certificates/dbf238834879
+:bookmark: Hackerrank SQL Certificate: https://www.hackerrank.com/certificates/dbf238834879 
 
 
 📫 How to reach me: lamnhutminh169@gmail.com
